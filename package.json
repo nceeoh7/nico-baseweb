@@ -8,7 +8,7 @@
     "baseui",
     "baseweb"
   ],
-  "license": "MIT",
+  "license": "Nico License",
   "types": "index.d.ts",
   "sideEffects": false,
   "module": "./esm/index.js",
